@@ -7,3 +7,15 @@ I also realise that I actually really like front end. I originally found it quit
 
 **Link(s) to work**
 1. [Coder Brixton repo (private, but it's there!)](https://github.com/coderdojobrixton/coderdojobrixton.github.io)
+
+### Day 2: Saturday, Feb 2, 2019
+
+**Today's Progress**: More work done on the Coder Brixton site. Concentrated on getting the Vimeo embed to be responsive.
+
+**Thoughts**: After a fair amount of frustration trying different approaches, CSS grid once again came to the rescue. The solution ended up being a 3x3 grid and placing the video in the central container. The trick to keeping the aspect ratio at 16:9 of the video was to actually use a width of 80vw and a height of 45vw (NOT vh). I managed to find this aspect ratio trick from a codepan trying to solve the same problem (but with a different implementation). 
+
+**Link(s) to work**
+1. [Coder Brixton repo (private, but it's there!)](https://github.com/coderdojobrixton/coderdojobrixton.github.io)
+
+**Link(s) to resources**
+1. [Codepen: A less awful responsive vimeo embed (by Liz)](https://codepen.io/lixelart/pen/eyZNeX)

@@ -19,3 +19,12 @@ I also realise that I actually really like front end. I originally found it quit
 
 **Link(s) to resources**
 1. [Codepen: A less awful responsive vimeo embed (by Liz)](https://codepen.io/lixelart/pen/eyZNeX)
+
+### Day 3: Sunday, Feb 3, 2019
+
+**Today's Progress**: Started re-designing the way quotations looked like on the site. Went for a card format that looks a lot nicer.
+
+**Thoughts**: A fair bit of time was spent getting responsive behaviour to work correctly using `@media`. It went okay, but it did feel like trial and error at times. If anybody reading this has and advice on methodology and approaches on responsive behaviour, please reach out to me on Twitter via [@BrotherKaif](http://twitter.com/brotherkaif)! 
+
+**Link(s) to work**
+1. [Coder Brixton repo (private, but it's there!)](https://github.com/coderdojobrixton/coderdojobrixton.github.io)

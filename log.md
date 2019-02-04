@@ -28,3 +28,16 @@ I also realise that I actually really like front end. I originally found it quit
 
 **Link(s) to work**
 1. [Coder Brixton repo (private, but it's there!)](https://github.com/coderdojobrixton/coderdojobrixton.github.io)
+
+### Day 4: Monday, Feb 4, 2019
+
+**Today's Progress**: Fixed a bug with the responsive cards. Also added in some FontAwesome icons.
+
+**Thoughts**: Fixing bugs with responsive elements is horrible. At first I attempted to redo the entire card only to totally revert back to what I had originally and just tweak it slightly. Lesson learned, it's not worth tearing it all down just to resolve an edge case that can be fixed with minor tweaks. Also added in some Font Awesome icons, because who doesn't like Font Awesome?!
+
+**Link(s) to work**
+1. [Coder Brixton repo (private, but it's there!)](https://github.com/coderdojobrixton/coderdojobrixton.github.io)
+
+**Link(s) to resources**
+1. [Font Awesome](https://fontawesome.com/)
+

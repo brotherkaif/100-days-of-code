@@ -41,3 +41,11 @@ I also realise that I actually really like front end. I originally found it quit
 **Link(s) to resources**
 1. [Font Awesome](https://fontawesome.com/)
 
+### Day 5: Tuesday, Feb 5, 2019
+
+**Today's Progress**: A bit more work on styling the rest of the sections.
+
+**Thoughts**: Didn't have a huge amount of time to code today so tackled some of the low hanging fruit of marking up the sections. Also started a project kanban on GitHub to start keeping track of the tasks that still need to be done.
+
+**Link(s) to work**
+1. [Coder Brixton repo (private, but it's there!)](https://github.com/coderdojobrixton/coderdojobrixton.github.io)

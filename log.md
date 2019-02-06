@@ -49,3 +49,15 @@ I also realise that I actually really like front end. I originally found it quit
 
 **Link(s) to work**
 1. [Coder Brixton repo (private, but it's there!)](https://github.com/coderdojobrixton/coderdojobrixton.github.io)
+
+### Day 6: Wednesday, Feb 6, 2019
+
+**Today's Progress**: Loads of stuff. Got the photo gallery sorted out and started making the sections responsive.
+
+**Thoughts**: Had a lot more time to code today. Got the photo gallery sorted thanks to a wonderful tutorial (linked below). Also started work on making the main sections responsive. Nearly there but will continue tomorrow. Another side note, it's becoming clear that CSS grid and flex pretty much negate the need for frameworks like Bootstrap. So I've slowly been pulling out the Bootstrap classes so that I can strip the thing out entirely by the end of it.
+
+**Link(s) to work**
+1. [Coder Brixton repo (private, but it's there!)](https://github.com/coderdojobrixton/coderdojobrixton.github.io)
+
+**Link(s) to resources**
+1. [Mosaic Layouts with CSS Grid | Axel Valdez](https://axelvaldez.mx/blog/2018/05/mosaic-layout-with-css-grid/)

@@ -61,3 +61,15 @@ I also realise that I actually really like front end. I originally found it quit
 
 **Link(s) to resources**
 1. [Mosaic Layouts with CSS Grid | Axel Valdez](https://axelvaldez.mx/blog/2018/05/mosaic-layout-with-css-grid/)
+
+### Day 7: Thursday, Feb 7, 2019
+
+**Today's Progress**: Finally got the responsive sections to work correctly.
+
+**Thoughts**: Getting the responsive behaviour to work well using CSS Grid is a bit of a challenge but I managed to track down where a lot of the bugs were coming from (it was a simple syntax error). Found a great guide which got me through some of the tough bits which I've linked below. Just a couple of more components left and then I can get onto the fun stuff of choosing fonts, colours and other little tweaks.
+
+**Link(s) to work**
+1. [Coder Brixton repo (private, but it's there!)](https://github.com/coderdojobrixton/coderdojobrixton.github.io)
+
+**Link(s) to resources**
+1. [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)

@@ -76,9 +76,9 @@ I also realise that I actually really like front end. I originally found it quit
 
 ### Day 8: Friday, Feb 8, 2019
 
-**Today's Progress**: Finally got the responsive sections to work correctly.
+**Today's Progress**: Worked on the cards for the mentors
 
-**Thoughts**: Getting the responsive behaviour to work well using CSS Grid is a bit of a challenge but I managed to track down where a lot of the bugs were coming from (it was a simple syntax error). Found a great guide which got me through some of the tough bits which I've linked below. Just a couple of more components left and then I can get onto the fun stuff of choosing fonts, colours and other little tweaks.
+**Thoughts**: Things are starting to come together! Today I worked on the mentor cards. The main components of the site are pretty much complete. I feel the next few days will be spent doing layout tweaks.
 
 **Link(s) to work**
 1. [Coder Brixton repo (private, but it's there!)](https://github.com/coderdojobrixton/coderdojobrixton.github.io)

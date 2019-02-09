@@ -82,3 +82,15 @@ I also realise that I actually really like front end. I originally found it quit
 
 **Link(s) to work**
 1. [Coder Brixton repo (private, but it's there!)](https://github.com/coderdojobrixton/coderdojobrixton.github.io)
+
+### Day 9: Saturday, Feb 9, 2019
+
+**Today's Progress**: Rebuilt the cards using CSS grid.
+
+**Thoughts**: I wanted to have a nice gradient to overlay on the mentor avatar, but the way I built the cards yesterday meant I'd have to do some complex absolute/relative placement. Re-did the cards in (wait for it...) CSS grid. Once again, I'm convinced that this is *the* solution to about 90% of CSS layout work. The card took me about an 30 mins to re-do; whereas yesterday it took me 3 hours to put together a pretty complex and difficult to manage layout using `position: relative;` and `position: absolute;`.
+
+**Link(s) to work**
+1. [Coder Brixton repo (private, but it's there!)](https://github.com/coderdojobrixton/coderdojobrixton.github.io)
+
+**Link(s) to resources**
+1. [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)

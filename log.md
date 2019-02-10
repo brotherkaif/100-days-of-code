@@ -94,3 +94,12 @@ I also realise that I actually really like front end. I originally found it quit
 
 **Link(s) to resources**
 1. [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
+### Day 10: Sunday, Feb 10, 2019
+
+**Today's Progress**: Work done on responsive behaviour for mentor cards. 
+
+**Thoughts**: It's a Sunday so didn't do anything too intense. Just worked on the responsive behaviour for the mentor cards. I really want to make sure that the site looks good on any size of device. Its a bit of extra work, but I'm learning a fair bit in the prcoess.
+
+**Link(s) to work**
+1. [Coder Brixton repo (private, but it's there!)](https://github.com/coderdojobrixton/coderdojobrixton.github.io)

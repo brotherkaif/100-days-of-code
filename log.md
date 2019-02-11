@@ -103,3 +103,12 @@ I also realise that I actually really like front end. I originally found it quit
 
 **Link(s) to work**
 1. [Coder Brixton repo (private, but it's there!)](https://github.com/coderdojobrixton/coderdojobrixton.github.io)
+
+### Day 11: Monday, Feb 11, 2019
+
+**Today's Progress**: Learning Git rebasing.
+
+**Thoughts**: Had to use git rebasing for the first time today. I _think_ it's worked out okay. It's a bit terrifying as you are essentially re-writing history. Fingers crossed the pull request goes in without any issues.
+
+**Link(s) to work**
+1. [Coder Brixton repo (private, but it's there!)](https://github.com/coderdojobrixton/coderdojobrixton.github.io)
